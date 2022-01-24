@@ -1,0 +1,24 @@
+﻿  Application.cpp
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(85,52): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(85,38): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(91,53): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(91,39): warning C4244: 'argument': conversion from 'UINT' to 'FLOAT', possible loss of data
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(823): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(824): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(828): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(829): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(833): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(834): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(823,49): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(824,61): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(828,47): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(829,59): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(833,48): warning C4238: nonstandard extension used: class rvalue used as lvalue
+F:\FGGC\DX11 Framework\DX11 Framework\Application.cpp(834,60): warning C4238: nonstandard extension used: class rvalue used as lvalue
+  Camera.cpp
+  DDSTextureLoader.cpp
+  DX11 Framework.cpp
+  OBJLoader.cpp
+  Generating Code...
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DX11 Framework.vcxproj -> F:\FGGC\DX11 Framework\DX11 Framework\Debug\DX11 Framework.exe
